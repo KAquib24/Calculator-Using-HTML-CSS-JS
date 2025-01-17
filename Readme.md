@@ -12,9 +12,8 @@ This is a simple calculator application built using **HTML**, **CSS**, and **Jav
   - Modulus (%)
 - Clear (AC) and delete (DEL) functionality.
 - Responsive design for different screen sizes.
-- 
+  
 ## How to Use
 
-1. Clone the repository to your local machine:
-
+- Clone the repository to your local machine:
 git clone:- https://github.com/KAquib24/Calculator-Using-HTML-CSS-JS
