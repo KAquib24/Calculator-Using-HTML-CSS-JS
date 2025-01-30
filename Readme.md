@@ -16,4 +16,4 @@ This is a simple calculator application built using **HTML**, **CSS**, and **Jav
 ## How to Use
 
 - Clone the repository to your local machine:
-git clone:- https://github.com/KAquib24/Calculator-Using-HTML-CSS-JS
+- git clone:- https://github.com/KAquib24/Calculator-Using-HTML-CSS-JS
